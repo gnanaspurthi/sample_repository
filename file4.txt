@@ -1,5 +1,1 @@
 This is example file for moving file from gitbash to github
-
-This is second line
-
-This is third line
